@@ -1,0 +1,22 @@
+{
+  "name": "play-for-2-players",
+  "version": "0.1.0",
+  "author": "Timur123tank <106086768+Timurpalan@users.noreply.github.com>",
+  "description": "This is a game at a medium level. You can catch apples in the bowl, and the bowl will grow, but its speed will slow down. You should take a 100 score to win.",
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timurpalan/play-for-2-players.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timurpalan/play-for-2-players/issues"
+  },
+  "homepage": "https://github.com/Timurpalan/play-for-2-players#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
